@@ -21,7 +21,7 @@ python resnet.py
 ```
 
 ### GCNN
-Train cnn model
+Check final outcomes 
 ```shell
 python gcnn.py
 ```
