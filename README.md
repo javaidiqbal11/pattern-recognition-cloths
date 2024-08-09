@@ -13,6 +13,9 @@ Train cnn model
 ```shell
 python cnn.py
 ```
+Note:
+Notebooks added to run the code smoothly. 
+
 
 ### ResNet
 Train cnn model
