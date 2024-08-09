@@ -14,3 +14,14 @@ Train cnn model
 python cnn.py
 ```
 
+### ResNet
+Train cnn model
+```shell
+python resnet.py
+```
+
+### GCNN
+Train cnn model
+```shell
+python gcnn.py
+```
