@@ -13,8 +13,10 @@ Train cnn model
 ```shell
 python cnn.py
 ```
-Note:
-Notebooks added to run the code smoothly. 
+### Kaggle Notebooks
+There are two notebooks available to run the code and check output.
+1. fabric-cnn.ipynb 
+2. fabric-effiecientnet.ipynb
 
 
 ### ResNet
