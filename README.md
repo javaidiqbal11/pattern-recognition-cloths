@@ -33,3 +33,10 @@ Check final outcomes
 ```shell
 python gcnn.py
 ```
+
+
+## Future Improvements
+Enhance dataset: Use a more diverse dataset with more patterns and variations in lighting, orientation, and fabric types.
+Fine-tune the model: Apply transfer learning with a pre-trained model such as ResNet, VGG, or Inception for better performance.
+Real-time detection: Implement real-time pattern recognition using a camera feed.
+Mobile integration: Convert the model to run on mobile devices using TensorFlow Lite or ONNX.
