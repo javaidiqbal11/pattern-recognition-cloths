@@ -33,7 +33,13 @@ Check final outcomes
 ```shell
 python gcnn.py
 ```
+## Model Architecture
+The deep learning model is based on Convolutional Neural Networks (CNNs), which are highly effective for image classification tasks. The architecture includes:
 
+- Convolutional layers for feature extraction
+- Max-pooling layers for dimensionality reduction
+- Fully connected layers for classification
+- Softmax activation function for multi-class classification
 
 ## Future Improvements
 Enhance dataset: Use a more diverse dataset with more patterns and variations in lighting, orientation, and fabric types.
