@@ -1,5 +1,6 @@
 import os
 
+# set the path 
 path = "./pattern-recognition/train"
 for (path, dirs, files) in os.walk(path):
     for dir in dirs:
