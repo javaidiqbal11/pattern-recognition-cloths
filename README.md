@@ -6,12 +6,12 @@ This project focuses on cloth pattern recognition using deep learning approaches
 ### Setup
 Python 3.10.10
 
-**Install packages**
+**Install Packages**
 ```shell
 pip install -r requirements.txt
 ```
 
-**CNN MOdel**
+**CNN Model**
 Train cnn model
 ```shell
 python cnn.py
@@ -22,13 +22,13 @@ There are two notebooks available to run the code and check output.
 2. fabric-effiecientnet.ipynb
 
 
-**ResNet**
+**ResNet Model**
 Train cnn model
 ```shell
 python resnet.py
 ```
 
-**GCNN**
+**GCNN Model**
 Check final outcomes 
 ```shell
 python gcnn.py
