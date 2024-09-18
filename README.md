@@ -21,7 +21,7 @@ There are two notebooks available to run the code and check output.
 1. fabric-cnn.ipynb 
 2. fabric-effiecientnet.ipynb
 
-
+`optional model training`
 **ResNet Model**
 Train cnn model
 ```shell
